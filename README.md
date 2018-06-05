@@ -11,7 +11,7 @@ go get -u github.com/BigJk/woget
 
 **First Time Setup**
 ```
-woget set 'C:\Programms\World Of Warcraft'
+woget set "C:\Programms\World Of Warcraft"
 ```
 
 **Download**
